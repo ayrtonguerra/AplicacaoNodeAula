@@ -4,12 +4,24 @@
   "description": "Prática 03 - Parte 2",
   "main": "app.js",
   "scripts": {
-    "test": "jest --ci"
+    "test": "jest --passWithNoTests"
   },
   "keywords": [
     "node.js",
     "pratica03Parte2"
   ],
   "author": "Ayrton",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayrtonguerra/AplicacaoNodeAula.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayrtonguerra/AplicacaoNodeAula/issues"
+  },
+  "homepage": "https://github.com/ayrtonguerra/AplicacaoNodeAula#readme"
 }
