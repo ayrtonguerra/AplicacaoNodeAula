@@ -1,3 +1,3 @@
 # AplicacaoNodeAula
 
-![Pipeline](https://github.com/ayrtonguerra/AplicacaoNodeAula/workflows/Pipeline/badge.svg)
+![Pipeline](https://github.com/ayrtonguerra/AplicacaoNodeAula/actions/workflows/tests.yml/badge.svg)
