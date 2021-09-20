@@ -4,7 +4,7 @@
   "description": "Prática 03 - Parte 2",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --ci"
   },
   "keywords": [
     "node.js",
