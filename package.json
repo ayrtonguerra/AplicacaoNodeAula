@@ -1,0 +1,15 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "Prática 03 - Parte 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "pratica03Parte2"
+  ],
+  "author": "Ayrton",
+  "license": "ISC"
+}
